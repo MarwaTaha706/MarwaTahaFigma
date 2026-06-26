@@ -29,7 +29,7 @@ This portfolio was designed to present my work as a Front-End Developer and UI/U
 ## 👩‍💻 Designer
 
 **Marwa Taha**  
-Front-End Developer & UI/UX Designer
+ UI/UX Designer
 
 ---
 ⭐ Feel free to explore the prototype and provide feedback.
